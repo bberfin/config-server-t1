@@ -1,6 +1,6 @@
 spring:
   application:
-    name: MAINTENANCE-SERVICE
+    name: maintenance-service
   datasource:
     username: root
     password: mysql
