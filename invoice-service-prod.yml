@@ -4,9 +4,7 @@ spring:
   data:
     mongodb:
       database: invoice-db-dev
-      uri: mongodb://localhost:27018
-      host: mongodb2
-      port: 27018
+      uri: mongodb://localhost:27018/invoice-db-dev
 eureka:
   client:
     fetch-registry: true
